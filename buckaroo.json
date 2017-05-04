@@ -1,0 +1,7 @@
+{
+  "name": "sfml-pong",
+  "dependencies": {
+    "sfml/graphics": "2.4.2",
+    "sfml/audio": "2.4.2"
+  }
+}
