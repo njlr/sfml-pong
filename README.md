@@ -13,6 +13,8 @@ buckaroo install
 
 ## Run
 
+Builds are handled via [Buck](https://buckbuild.com/). 
+
 ```
 buck run :pong
 ```
